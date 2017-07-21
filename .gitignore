@@ -1,1 +1,3 @@
 jupyter/debug.log
+*.log
+jupyter/.ipynb_checkpoints/*
